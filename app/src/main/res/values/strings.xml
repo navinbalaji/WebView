@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maximal Webview</string>
+    <string name="webview">WebView</string>
+    <string name="todo">TODO</string>
+    <string name="search">SEARCH</string>
+    <string name="web_view">Web View</string>
+    <string name="enter_custom_url">Enter Custom URL</string>
+    <string name="click_to_see_maximl_website">Click to see MAXIML Website</string>
+</resources>
